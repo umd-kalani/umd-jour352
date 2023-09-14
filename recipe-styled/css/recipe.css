@@ -1,0 +1,64 @@
+body {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 2em 0;
+}
+
+main {
+    margin: 2em 0 0 0;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2.5em;
+}
+
+a {
+    color: #DE7504;
+    font-weight: 700;
+}
+
+/* header */
+header {
+    text-align: center;
+}
+
+header img {
+    width: 30%;
+}
+
+header p {
+    color: #7C7063;
+}
+
+nav a {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+nav {
+    padding: 1em 0 0 0;
+}
+
+nav a,
+header p {
+    font-size: .75em;
+}
+
+/* callout box */
+.callout {
+    background-color: #FBEBD9;
+    /* width:75%; */
+    /* border: 3px solid black; */
+    padding: 2em 1em;
+    margin: 1em 0;
+}
+
+.callout h3 {
+    font-size: 1em;
+}
+
+/* footer */
+footer {
+    text-align: center;
+}
