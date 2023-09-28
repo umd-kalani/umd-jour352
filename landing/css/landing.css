@@ -31,14 +31,14 @@ section{
 /* header section w/ brand, txt and nav */
 
 header,
-.top p,
+.top,
 .menu, 
 .walkers{
     text-align: center;
 }
 
 .top img{
-    margin:0 0 4em 0;
+    padding: 0 0 4em 0;
 }
 
 
@@ -63,7 +63,7 @@ header,
     padding: 1em;
 }
 
-.about img{
+img{
     margin:0 auto;
     display: block;
 }
