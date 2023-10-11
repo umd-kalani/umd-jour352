@@ -1,0 +1,87 @@
+code{
+    display: block;
+    color: yellow;
+    font-style: italic;
+}
+
+
+body {
+    font-family: 'Assistant', sans-serif;
+    font-size: 16px;
+    color: #17241D;
+}
+
+a {
+    color: #17241D;
+    text-decoration: none;
+}
+
+/* header */
+
+header {
+    text-align: center;
+    padding: 2em 0;
+    color: #F6F7F9;
+    background-color: #17241D;
+}
+
+header img {
+    width: 5%;
+}
+
+
+h1 {
+    font-family: 'Dela Gothic One', cursive;
+    text-transform: uppercase;
+}
+
+/* nav */
+.nav-link,
+a {
+    text-transform: uppercase;
+    font-family: 'Mooli', sans-serif;
+    font-size: .75em;
+    letter-spacing: 3px;
+}
+
+/* nav */
+.nav-link{
+    color: #F6F7F9;
+}
+.nav-link:hover {
+    color: #E1CDAC;
+}
+
+section {
+    margin: 3em 0;
+}
+
+/* contact */
+.contact {
+    text-align: right;
+    text-transform: uppercase;
+    font-size: .75em;
+    letter-spacing: 1px;
+    font-weight: 300;
+}
+
+/* menu block */
+.menu {
+    background-color:#E1CDAC;
+    color: #17241D;
+    padding: 3em 1em;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.menu img {
+    padding: 2em 0;
+}
+
+h2 {
+    font-size: 1.25em;
+    padding: 0 0 1em 0;
+    font-weight: 700;
+}
+
+
