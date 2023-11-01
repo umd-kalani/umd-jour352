@@ -1,10 +1,3 @@
-code{
-    display: block;
-    color: yellow;
-    font-style: italic;
-}
-
-
 body {
     font-family: 'Assistant', sans-serif;
     font-size: 16px;
@@ -33,6 +26,7 @@ header img {
 h1 {
     font-family: 'Dela Gothic One', cursive;
     text-transform: uppercase;
+    font-size: 3em;
 }
 
 /* nav */
@@ -84,4 +78,28 @@ h2 {
     font-weight: 700;
 }
 
+@media (min-width:576px){
+    h1{
+        font-size: 5em;
+    }
+}
 
+
+/* 
+@media (max-width:768px){
+    h1{
+        font-size: 5em;
+    }
+}
+
+@media (max-width:576px){
+    h1{
+        font-size:3em;
+    }
+    .contact{
+        text-align: center;
+    }
+    header img {
+        width: 10%;
+    }
+} */
